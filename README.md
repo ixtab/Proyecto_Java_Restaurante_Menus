@@ -1,6 +1,6 @@
 # Proyecto_Java_Restaurante_Menus
-## En fase de desarrollo
-Proyecto en JEE con API y acceso a BD MySQL
+## Proyecto en JEE con API y acceso a BD MySQL
+### En fase de Desarrollo
 Está aplicación forma parte del proyecto transversal del curso Desarrollo Web Java EE de la Fundación Telefónica.
 Para su elaboración se ha utilizado para la parte de frontend html, CSS, JavaScript, JQuery y MaterializeCSS, y para la parte backend Java, JAVA EE, Servlets, JSP, JDBC y JPA.
 Al finalizar el desarrollo los usuarios podrán crear su registro, con nombre de usuario y contraseña, para tener un perfil en el que almacenar sus favoritos, sus comentarios etc.
