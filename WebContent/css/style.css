@@ -1,0 +1,43 @@
+html {
+    background: url(../img/fondo.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+	
+}
+
+label {
+	color: black;
+}
+
+.margen-superior {
+	margin-top: 100px;
+}
+
+.margen-inferior {
+	margin-bottom: 25px;
+}
+
+.mapa {
+	display: none;
+}
+
+.trans {
+	opacity: 0.9;
+}
+.brand-logo {
+	padding-left: 10px !important; 
+}
+#cont2, #progreso{
+	display: none;
+}
+
+
+.byn{
+	color: white;
+	background: #00897b ;
+}
